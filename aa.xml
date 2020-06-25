@@ -1,0 +1,8 @@
+<HymnListCard
+        hymnlistName="Praise and Worship"
+        hymnlistId="Praise and Worship"
+        defaultId="123456"
+        defaultPwd="123456"
+        hymnlistPassword="kaka"
+        style={styles.hymnListCard}
+      ></HymnListCard>
